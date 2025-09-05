@@ -37,7 +37,7 @@ FaceDetection/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DEIN_USERNAME/FaceDetection.git
+   git clone https://github.com/samuelgn29/FaceDetection.git
    cd FaceDetection
 2. Install dependencies:
     ```bash
